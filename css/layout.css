@@ -972,6 +972,7 @@ footer .social-links li {
     padding: 0;
     margin-left: 42px;
     color: #F06000;
+    align-content: center;
 }
 
 footer .social-links li:first-child { margin-left: 0; }

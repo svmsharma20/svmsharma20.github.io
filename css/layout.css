@@ -335,27 +335,36 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.jsp {
-  	width: 70%;
+.micronaut {
+  	width: 55%;
   	-moz-animation: jsp 2s ease;
   	-webkit-animation: jsp 2s ease;
 }
-.sql {
-  	width: 55%;
+.reactjs {
+  	width: 45%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
-.docker {
+.protobuf {
   	width: 65%;
   	-moz-animation: docker 2s ease;
   	-webkit-animation: docker 2s ease;
 }
-.junit {
-  	width: 30%;
+.docker {
+  	width: 60%;
   	-moz-animation: junit 2s ease;
   	-webkit-animation: junit 2s ease;
 }
-
+.kubernetes {
+  	width: 40%;
+  	-moz-animation: junit 2s ease;
+  	-webkit-animation: junit 2s ease;
+}
+.junit {
+  	width: 85%;
+  	-moz-animation: junit 2s ease;
+  	-webkit-animation: junit 2s ease;
+}
 @-moz-keyframes java {
   0%   { width: 0px;  }
   100% { width: 90%;  }
